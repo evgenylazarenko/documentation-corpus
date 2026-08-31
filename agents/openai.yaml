@@ -1,0 +1,4 @@
+interface:
+  display_name: "Documentation Corpus"
+  short_description: "Build numbered, portable documentation corpora"
+  default_prompt: "Use $documentation-corpus to design or audit a sparse numbered, provenance-aware documentation corpus; use strict OKF only when requested."
